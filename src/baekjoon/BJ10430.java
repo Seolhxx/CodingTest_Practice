@@ -21,5 +21,9 @@ public class BJ10430 {
         System.out.println(num4);
 
         //꼭 변수 num1 등등 처럼 저장할 필요는 없이 출력에 바로 식 값을 넣어서 출력해주면 된다.
+//        System.out.println((A+B)%C);
+//        System.out.println(((A%C) + (B%C))%C);
+//        System.out.println((A*B)%C);
+//        System.out.println(((A%C) * (B%C))%C);
     }
 }
